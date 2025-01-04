@@ -67,6 +67,9 @@ Si aún no tienes una cuenta de desarrollador en Amazon, regístrate en Amazon D
 
 ## 3. Sube el APK Generado
 En el portal de Amazon Developer, ve a la sección de "Apps & Services" y selecciona "Your Apps". Haz clic en "Add a New App" y sigue las instrucciones para cargar el APK generado en el paso anterior.
+![image](https://github.com/user-attachments/assets/e9db8f20-ea17-4489-b356-b970cf9bb8d5)
+![image](https://github.com/user-attachments/assets/6c17b04b-4939-4291-8388-92b617cf7112)
+![image](https://github.com/user-attachments/assets/80c5cc33-3615-4db7-80cd-988261ed0c9c)
 
 ## 4. Configura la Información de la Aplicación
 Una vez que hayas subido el APK, deberás proporcionar información detallada sobre tu aplicación:
@@ -77,6 +80,8 @@ Icono de la aplicación: Sube el icono de la aplicación en formato PNG o JPG.
 Descripción corta: Añade una breve descripción que describa la aplicación.
 Descripción larga: Proporciona una descripción detallada de las funcionalidades de la aplicación.
 Capturas de pantalla: Sube capturas de pantalla de la aplicación en los dispositivos soportados (generalmente, 3-5 capturas en diferentes tamaños y orientaciones).
+![image](https://github.com/user-attachments/assets/84c448a1-b496-4e8b-b6b9-b9ad3474a9ff)
+![image](https://github.com/user-attachments/assets/d8deab94-13e0-4c8e-b62c-3b5f77f9ee6a)
 
 ## 5. Configura las Opciones de Distribución
 En esta sección, podrás elegir en qué regiones y países estará disponible tu aplicación. Asegúrate de seleccionar correctamente las opciones de distribución.
